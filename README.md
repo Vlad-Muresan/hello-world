@@ -1,2 +1,4 @@
 # hello-world
-Hello there guys. My name is Vlad and I am a student at a English Literature university in Romania. I wish to start coding and learn web development and I figured the best place to start from is right here with you!
+
+Hi there,
+Vlad M(Riddle) here. I like reading and writing and I plan on being the fastest longboarder in the world. I'd like to start learning how to write code and that is because it seems very, very interesting.
